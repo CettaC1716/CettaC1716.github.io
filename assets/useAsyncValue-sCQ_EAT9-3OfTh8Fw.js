@@ -1,0 +1,1 @@
+import{s as e}from"./rolldown-runtime-Bjp52BOI.js";import{n as t}from"./jsx-runtime-xk_ScxrM.js";var n=e(t(),1),r=e=>{let[t,r]=(0,n.useState)();return(0,n.useEffect)((()=>{e().then((e=>{r(e)})).catch((()=>{}))}),[]),t};export{r as t};
