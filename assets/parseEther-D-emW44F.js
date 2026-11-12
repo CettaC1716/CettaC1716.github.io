@@ -1,0 +1,1 @@
+import{Zt as e}from"./call-DzMKa_5x.js";function t(t,n=`wei`){return e(t,n)}export{t};

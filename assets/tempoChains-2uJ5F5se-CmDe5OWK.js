@@ -1,0 +1,1 @@
+export{n as tempo,t as tempoModerato}from"./tempoModerato-CC1Xi6Jl.js";
