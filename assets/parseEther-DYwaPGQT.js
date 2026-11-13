@@ -1,0 +1,1 @@
+import{Zt as e}from"./call-Ck6-qaAW.js";function t(t,n=`wei`){return e(t,n)}export{t};
