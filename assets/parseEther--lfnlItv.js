@@ -1,0 +1,1 @@
+import{Zt as e}from"./call-zYLkSP46.js";function t(t,n=`wei`){return e(t,n)}export{t};
