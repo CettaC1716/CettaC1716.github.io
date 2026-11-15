@@ -1,0 +1,1 @@
+import{Zt as e}from"./call-3nPL6P5M.js";function t(t,n=`wei`){return e(t,n)}export{t};
